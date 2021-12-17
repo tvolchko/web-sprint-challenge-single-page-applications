@@ -40,6 +40,7 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 ## Instructions
 
+
 ### Task 1: Project Set Up
 
 - [ ] Create a forked copy of this project
